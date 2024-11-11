@@ -59,7 +59,7 @@ I'm a second year Master of Science student at the University of Melbourne, majo
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianneCai&theme=blue-green"> -->
 
-------
+<!-- ------ -->
 
 Last Updated: 11/11/2024
 
