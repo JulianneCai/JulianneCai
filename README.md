@@ -22,7 +22,7 @@ I'm a second year Master of Science student at the University of Melbourne, majo
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
   <img src="https://img.shields.io/badge/scikit--optimize-000000?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white">
-  <img src="https://img.shields.io/badge/xgboost-8A2BE2?style=for-the-badge&logoColor=black">
+  <img src="https://img.shields.io/badge/xgboost-%8A2BE2?style=for-the-badge&logoColor=black">
 </span>
 
 <h4> OS </h4>
