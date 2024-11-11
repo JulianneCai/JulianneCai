@@ -28,7 +28,7 @@ I'm a second year Master of Science student at the University of Melbourne, majo
 <h4> OS </h4>
 <span>
   <img src="https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=fff">
-  <img src="img.shields.io/badge/dwm-0078D4?style=for-the-badge&logo=dwm&logoColor=white">
+  <img src="https://img.shields.io/badge/--1177AA?logo=dwm)](https://dwm.suckless.org/">
 </span>
 
 <h4> IDE </h4>
