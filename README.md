@@ -39,6 +39,9 @@ I'm a second year Master of Science student at the University of Melbourne, majo
 <a target="_blank" href="mailto:julianne.cai@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white"></img></a>
 <br>
 </p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={Julianne}&theme=blue-green">
+
 ------
 
 Last Edited on: 11/11/2024
