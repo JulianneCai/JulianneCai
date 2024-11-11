@@ -12,7 +12,7 @@ I'm a second year Master of Science student at the University of Melbourne, majo
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
-  <img src="https://camo.githubusercontent.com/ee91ade30667645634e4405aee0d2e25574ab962f2ae2c372ac8da0b4794bf05/68747470733a2f2f7867626f6f73742e61692f696d616765732f6c6f676f2f7867626f6f73742d6c6f676f2d7472696d6d65642e706e67">
+  [![xgboost]]
 </span>
 
 <h4> Libraries </h4>
