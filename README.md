@@ -35,7 +35,7 @@ I'm a second year Master of Science student at the University of Melbourne, majo
 
 
 <hr>
-<a target="_blank" href="https://www.linkedin.com/in/julianne-cai/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<b> Reach out<\b>: <a target="_blank" href="https://www.linkedin.com/in/julianne-cai/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:julianne.cai@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white"></img></a>
 <br>
 </p>
