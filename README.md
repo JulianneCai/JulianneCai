@@ -13,6 +13,11 @@ I'm a second year Master of Science student at the University of Melbourne, majo
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 </span>
 
+<h4>OS</h4>
+<span>
+  <img src="[![Gentoo](https://img.shields.io/badge/Gentoo-54487A?logo=gentoo&logoColor=fff)](#)">
+</span>
+
 <h4> IDE </h4>
 <span>
 <img src="https://img.shields.io/badge/PyCharm-000000?logo=PyCharm&logoColor=white">
