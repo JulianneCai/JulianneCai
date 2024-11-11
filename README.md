@@ -20,7 +20,7 @@ I'm a second year Master of Science student at the University of Melbourne, majo
 
 <h4> IDE </h4>
 <span>
-<img src="https://img.shields.io/badge/PyCharm-000000?logo=PyCharm&logoColor=white">
+<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
 
