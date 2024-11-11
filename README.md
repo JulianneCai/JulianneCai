@@ -15,7 +15,7 @@ I'm a second year Master of Science student at the University of Melbourne, majo
 
 <h4>OS</h4>
 <span>
-  <img src="[![Gentoo](https://img.shields.io/badge/Gentoo-54487A?logo=gentoo&logoColor=fff)](#)">
+  <img src="(https://img.shields.io/badge/Gentoo-54487A?logo=gentoo&logoColor=fff">
 </span>
 
 <h4> IDE </h4>
