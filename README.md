@@ -41,7 +41,7 @@ I'm a second year Master of Science student at the University of Melbourne, majo
 <h4> Other Tools and Technologies </h4>
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src ="https://img.shields.io/badge/Vim-Editor-3b883b?style=for-the-badge&logo=vim">
+  <img src ="https://img.shields.io/badge/Vim-3b883b?style=for-the-badge&logo=vim">
   <img src="https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white">
 
 </span>
