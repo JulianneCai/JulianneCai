@@ -8,7 +8,7 @@ I'm a second year Master of Science student at the University of Melbourne, majo
 
 <h4> Languages </h4>
 <span> 
-  <img scr="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img scr="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 </span>
