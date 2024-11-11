@@ -13,7 +13,7 @@ I'm a second year Master of Science student at the University of Melbourne, majo
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 </span>
 
-<h4>OS</h4>
+<h4> OS </h4>
 <span>
   <img src="https://img.shields.io/badge/Gentoo-54487A?logo=gentoo&logoColor=fff">
 </span>
@@ -35,11 +35,13 @@ I'm a second year Master of Science student at the University of Melbourne, majo
 
 
 <hr>
-<h4>Reach out to me at: <\h4>
-<a target="_blank" href="https://www.linkedin.com/in/julianne-cai/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:julianne.cai@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white"></img></a>
-<br>
-</p>
+<h4>Reach out to me at:<\h4>
+<span>
+  <a target="_blank" href="https://www.linkedin.com/in/julianne-cai/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+  <a target="_blank" href="mailto:julianne.cai@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white"></img></a>
+  <br>
+  </p>
+<\span>
 
 <hr>
 
