@@ -27,6 +27,7 @@ I'm a second year Master of Science student at the University of Melbourne, majo
 
 <h4> My OS Setup </h4>
 <span>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=fff">
   <img src="https://img.shields.io/badge/dwm-1177AA?style=for-the-badge&logo=suckless">
   <img src="https://img.shields.io/badge/X11-F28834?style=for-the-badge&logo=x.org&logoColor=ffffff">
