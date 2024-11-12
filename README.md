@@ -14,7 +14,7 @@ I'm a second year Master of Science student at the University of Melbourne, majo
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
 </span>
 
-<h4> Libraries </h4>
+<h4> ML Libraries </h4>
 <span>
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
