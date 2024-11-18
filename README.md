@@ -26,7 +26,7 @@ I'm a second year Master of Science student at the University of Melbourne, majo
   <img src="https://img.shields.io/badge/xgboost-%8A2BE2?style=for-the-badge&logoColor=black">
 </span>
 
-<h4> Database </h4>
+<h4> Database Tools </h4>
 <span>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
 </span>
