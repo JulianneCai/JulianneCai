@@ -61,9 +61,7 @@ I'm a second year Master of Science student at the University of Melbourne, majo
 <br>
 </p>
 
-<hr>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianneCai&theme=blue-green">
-</hr>
+![Julianne's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 
 Last Updated: 18/11/2024
 
