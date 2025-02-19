@@ -2,7 +2,7 @@
 
 ### Hi there 👋 I'm Julianne Cai,
 
-I'm a second year Master of Science student at the University of Melbourne, majoring in Pure Mathematics, and minoring in Statistics and Stochastic Processes. I did my undergraduate the University of Queensland, also majoring in pure mathematics.
+I'm a second year Master of Science student at the University of Melbourne, majoring in Pure Mathematics, and minoring in Statistics and Stochastic Processes. I did my undergraduate the University of Queensland, also majoring in pure mathematics. Currently, I am working as an energy trader.
 
 ## My Skills Include
 
@@ -60,5 +60,5 @@ I'm a second year Master of Science student at the University of Melbourne, majo
 <br>
 </p>
 
-Last Updated: 18/11/2024
+Last Updated: 19/02/2025
 
