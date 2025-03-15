@@ -31,7 +31,6 @@ I'm a second year Master of Science student at the University of Melbourne, majo
 <span>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </span>
 
 <h4> My OS Setup </h4>
@@ -61,5 +60,5 @@ I'm a second year Master of Science student at the University of Melbourne, majo
 <br>
 </p>
 
-Last Updated: 10/03/2025
+Last Updated: 15/03/2025
 
