@@ -2,10 +2,10 @@
 
 ### Hi there 👋 I'm Julianne Cai,
 
-I'm a second year Master of Science student at the University of Melbourne, majoring in Pure Mathematics, and minoring in Statistics and Stochastic Processes. I did my undergraduate the University of Queensland, also majoring in pure mathematics. Currently, I am working as an energy trader.
+I'm an energy trader and data scientist, specialising in optimising large renewable assets such as batteries and solar farms 😎
 
 ## My Skills Include
-
+<!--
 <h4> Languages </h4>
 <span> 
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
@@ -14,17 +14,21 @@ I'm a second year Master of Science student at the University of Melbourne, majo
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
   <img src="https://img.shields.io/badge/MATLAB-white?style=for-the-badge&logo=mcdonalds&logoColor=white&color=c04545">
 </span>
+-->
 
 <h4> ML Libraries </h4>
 <span>
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/xgboost-%8A2BE2?style=for-the-badge&logoColor=black">
+  <img src="https://img.shields.io/badge/LightGBM-808080.svg?style=for-the-badge&logo=lightgbm">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
+  <img src="https://img.shields.io/badge/polars-%23150458.svg?style=for-the-badge&logo=polars&logoColor=white">
+  <img src="https://img.shields.io/badge/plotly-%23150458.svg?style=for-the-badge&logo=plotly&logoColor=white">
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
   <img src="https://img.shields.io/badge/scikit--optimize-000000?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white">
-  <img src="https://img.shields.io/badge/xgboost-%8A2BE2?style=for-the-badge&logoColor=black">
+
 </span>
 
 <h4> Database Tools </h4>
@@ -43,8 +47,8 @@ I'm a second year Master of Science student at the University of Melbourne, majo
 
 <h4> IDE </h4>
 <span>
-<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white">
 <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white">
+<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white">
 
 <h4> Other Tools and Technologies </h4>
 <span>
