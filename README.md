@@ -28,7 +28,6 @@ I'm an energy trader and data scientist, specialising in optimising large renewa
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
   <img src="https://img.shields.io/badge/scikit--optimize-000000?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white">
-
 </span>
 
 <h4> Database Tools </h4>
@@ -37,7 +36,26 @@ I'm an energy trader and data scientist, specialising in optimising large renewa
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
 </span>
 
-<h4> My OS Setup </h4>
+<h4> Cloud Computing </h4>
+<span>
+  <img src="https://custom-icon-badges.demolab.com/badge/Amazon AWS-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=white">
+</span>
+
+<h4> Software Lifecycle Tools </h4>
+<span>
+  <img src="https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
+  <img src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white">
+</span>
+
+<h4> Dashboarding </h4>
+<span>
+  <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white">
+  <img src="https://img.shields.io/badge/apache superset-%23ffffff.svg?style=for-the-badge&logo=apache-superset">
+</span>
+
+<h4> My Personal OS Setup </h4>
 <span>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=fff">
@@ -45,24 +63,23 @@ I'm an energy trader and data scientist, specialising in optimising large renewa
   <img src="https://img.shields.io/badge/X11-F28834?style=for-the-badge&logo=x.org&logoColor=ffffff">
 </span>
 
-<h4> IDE </h4>
+<!-- <h4> IDE </h4>
 <span>
-<img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white">
-<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white">
+  <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white">
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white">
+</span> -->
 
-<h4> Other Tools and Technologies </h4>
+<h4> Miscellaneous </h4>
 <span>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src ="https://img.shields.io/badge/Vim-3b883b?style=for-the-badge&logo=vim">
   <img src="https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white">
-
 </span>
 
 ## Reach out!
 
-<a target="_blank" href="https://www.linkedin.com/in/julianne-cai/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="https://www.linkedin.com/in/julianne-cai/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"></img></a>
 <br>
 </p>
 
-Last Updated: 15/03/2025
+Last Updated: 15/02/2026
 
